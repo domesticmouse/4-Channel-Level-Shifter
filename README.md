@@ -45,5 +45,9 @@ The circuit is ideal for bidirectional communication protocols like I2C, but als
 2. **Ground:** Connect **GND** to your common system ground.
 3. **Logic:** Connect your 3.3V logic signals to the **LVn** pins; the corresponding **HVn** pins will provide the 5V shifted output (and vice-versa for bidirectional signals).
 
+## Board render
+
+![Board render](4-Channel-Level-Shifter.png)
+
 ---
 *Developed as a KiCad 10 project.*
